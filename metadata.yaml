@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3967
     wikipedia: http://en.wikipedia.org/wiki/Edison_Marshall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35378#The-Strength-of-the-Pines
 gutenberg_issued: '2011-02-23'
 gutenberg_type: Text
 identifiers:
