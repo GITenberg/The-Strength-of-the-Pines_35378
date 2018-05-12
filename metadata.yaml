@@ -1,0 +1,36 @@
+_repo: The-Strength-of-the-Pines_35378
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dunton, W. Herbert
+    alias: Dunton, Herbert
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '7987'
+    url: http://www.gutenberg.org/2009/agents/7987
+covers:
+- cover_type: archival
+  image_path: 35378-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marshall, Edison
+    birthdate: 1894
+    deathdate: 1967
+    gutenberg_agent_id: '3967'
+    url: http://www.gutenberg.org/2009/agents/3967
+    wikipedia: http://en.wikipedia.org/wiki/Edison_Marshall
+description: ''
+gutenberg_issued: '2011-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oregon -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Vendetta -- Fiction'
+title: The Strength of the Pines
+url: http://www.gutenberg.org/ebooks/35378
